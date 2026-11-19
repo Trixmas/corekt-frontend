@@ -22,3 +22,7 @@ If you have npm installed, you can use `npm install -g pnpm` to install pnpm or 
 - Create a new file named `.env` in the project directory and add the environment variables.
 - Run the command `pnpm preview` to start the production build of the project.
 - Open your internet browser and go to the following address: http://localhost:3000
+
+# Demonstration
+
+https://github.com/user-attachments/assets/0493c370-0905-4d12-b57f-898b2458064e
