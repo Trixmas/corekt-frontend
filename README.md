@@ -1,5 +1,8 @@
 # Corekt Frontend
 
+> [!IMPORTANT]
+> This project requires its backend to run properly. No mock version is provided. Click [HERE](https://github.com/trixmas/corekt-backend) to view the **corekt-backend** repository. School project.
+
 The frontend of the Corekt project.
 
 ![](/public/moussax-corekt.png)
